@@ -1,1 +1,3 @@
 obj/basics.csproj.nuget.dgspec.json
+bin/
+obj/
