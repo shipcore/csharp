@@ -5,3 +5,6 @@ var s = "yt";
 
 Console.WriteLine(s);
 Console.WriteLine("Hello World!");
+
+var fru = new IF();
+Console.WriteLine(fru.GetFruit());
